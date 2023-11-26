@@ -185,7 +185,7 @@ const projects = [
     ],
     image: portfolio,
     source_code_link: "https://github.com/",
-    site_link:'https://uppadabhaskar.github.io/React-Metaverse-clone/',
+    site_link:'https://uppadabhaskar.github.io/React-Portfolio/',
   },
   {
     name: "Metaverse",
