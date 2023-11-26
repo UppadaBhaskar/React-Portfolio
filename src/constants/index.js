@@ -125,7 +125,7 @@ const experiences = [
     date: "Sep 2021 - Nov 2022",
     points: [
       
-        "Successfully executed AWS Cloud internship, demonstrating adeptness in deploying and managing EC2 instances, implementing robust S3 storage strategies, and optimizing database performance through Amazon RDS. ",
+        "As an intern, I successfully completed an AWS Cloud internship where I demonstrated my expertise in deploying and managing EC2 instances, implementing robust S3 storage strategies, and optimizing database performance through Amazon RDS.",
         "Contributed to impactful projects, showcasing practical skills in cloud technologies for seamless infrastructure management.",
     ],
   },
